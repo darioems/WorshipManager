@@ -1,0 +1,1000 @@
+TWorshipManager
+v7
+r0
+t324072627.382932
+cCheck dependencies
+cProcessInfoPlistFile "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/Debug-iphonesimulator/WorshipManager.app/Info.plist" WorshipManager-Info.plist
+cCompileXIB "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/MainWindow.xib"
+cCompileXIB "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/Classes/NaipesTableViewController.xib"
+cCompileXIB "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/Classes/NaipesViewController.xib"
+cCompileXIB "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/Classes/IntegrantesNaipeTableViewController.xib"
+cCompileXIB "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/Classes/IntegrantesTableViewController.xib"
+cCpResource build/Debug-iphonesimulator/WorshipManager.app/Teste.png Teste.png
+cCpResource build/Debug-iphonesimulator/WorshipManager.app/icon.png icon.png
+cCpResource build/Debug-iphonesimulator/WorshipManager.app/icon@2x.png icon@2x.png
+cCpResource build/Debug-iphonesimulator/WorshipManager.app/person.png person.png
+cCpResource build/Debug-iphonesimulator/WorshipManager.app/integrantes.png integrantes.png
+cCpResource build/Debug-iphonesimulator/WorshipManager.app/integrantes@2x.png integrantes@2x.png
+cCpResource build/Debug-iphonesimulator/WorshipManager.app/naipes.png naipes.png
+cCpResource build/Debug-iphonesimulator/WorshipManager.app/naipes@2x.png naipes@2x.png
+cCpResource build/Debug-iphonesimulator/WorshipManager.app/default.png default.png
+cCpResource build/Debug-iphonesimulator/WorshipManager.app/WorshipManagerNew.sqlite WorshipManagerNew.sqlite
+cCompileXIB "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/Classes/ViewWithWebViewController.xib"
+cProcessPCH /var/folders/5p/5pJ5ajM3E+iiQKmJEA8GxU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/WorshipManager_Prefix-amwsohxbzlyscdarojnwoygvfgtv/WorshipManager_Prefix.pch.gch WorshipManager_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/WorshipManager.build/Debug-iphonesimulator/WorshipManager.build/Objects-normal/i386/main.o "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/WorshipManager.build/Debug-iphonesimulator/WorshipManager.build/Objects-normal/i386/WorshipManagerAppDelegate.o "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/Classes/WorshipManagerAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/WorshipManager.build/Debug-iphonesimulator/WorshipManager.build/Objects-normal/i386/Conexao.o "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/Classes/Conexao.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/WorshipManager.build/Debug-iphonesimulator/WorshipManager.build/Objects-normal/i386/Naipes.o "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/Classes/Naipes.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/WorshipManager.build/Debug-iphonesimulator/WorshipManager.build/Objects-normal/i386/NaipesTableViewController.o "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/Classes/NaipesTableViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/WorshipManager.build/Debug-iphonesimulator/WorshipManager.build/Objects-normal/i386/IntegrantesNaipeTableViewController.o "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/Classes/IntegrantesNaipeTableViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/WorshipManager.build/Debug-iphonesimulator/WorshipManager.build/Objects-normal/i386/Integrantes.o "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/Classes/Integrantes.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/WorshipManager.build/Debug-iphonesimulator/WorshipManager.build/Objects-normal/i386/IntegrantesTableViewController.o "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/Classes/IntegrantesTableViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/WorshipManager.build/Debug-iphonesimulator/WorshipManager.build/Objects-normal/i386/IntegranteNaipe.o "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/Classes/IntegranteNaipe.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/WorshipManager.build/Debug-iphonesimulator/WorshipManager.build/Objects-normal/i386/ViewWithWebViewController.o "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/Classes/ViewWithWebViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/Debug-iphonesimulator/WorshipManager.app/WorshipManager" normal i386
+cGenerateDSYMFile "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/Debug-iphonesimulator/WorshipManager.app.dSYM" "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/Debug-iphonesimulator/WorshipManager.app/WorshipManager"
+cTouch "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/Debug-iphonesimulator/WorshipManager.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/sqlite3.h
+c000000004CC109C90000000000042B54
+t1287719369
+s273236
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/lib/libsqlite3.0.dylib
+c000000004CC109D90000000000092C20
+t1287719385
+s601120
+
+N/Developer_old/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer_old/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer_old/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer_old/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer_old/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer_old/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Developer_old/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/sqlite3.h
+c000000004CC109C90000000000042B54
+t1287719369
+s273236
+
+N/Developer_old/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/lib/libsqlite3.0.dylib
+c000000004CC109D90000000000092C20
+t1287719385
+s601120
+
+N/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/Classes/Conexao.h
+c000000004D7997800000000000000106
+t1299814272
+s262
+i<Foundation/Foundation.h>
+i<sqlite3.h>
+
+N/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/Classes/Conexao.m
+c000000004D84F2ED000000000000035D
+t1300558573
+s861
+i"Conexao.h"
+
+N/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/Classes/IntegranteNaipe.h
+c000000004D7AAB270000000000000154
+t1299884839
+s340
+i<Foundation/Foundation.h>
+
+N/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/Classes/IntegranteNaipe.m
+c000000004D7C42030000000000000B46
+t1299988995
+s2886
+i"IntegranteNaipe.h"
+i"Conexao.h"
+i"Naipes.h"
+i"Integrantes.h"
+
+N/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/Classes/Integrantes.h
+c000000004D79AE6D0000000000000341
+t1299820141
+s833
+i<Foundation/Foundation.h>
+
+N/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/Classes/Integrantes.m
+c000000004D7EA3DF00000000000013E4
+t1300145119
+s5092
+i"Integrantes.h"
+i"Conexao.h"
+
+N/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/Classes/IntegrantesNaipeTableViewController.h
+c000000004D7C4693000000000000016B
+t1299990163
+s363
+i<UIKit/UIKit.h>
+
+N/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/Classes/IntegrantesNaipeTableViewController.m
+c000000004D84A79800000000000013BD
+t1300539288
+s5053
+i"IntegrantesNaipeTableViewController.h"
+i"IntegrantesTableViewController.h"
+i"IntegranteNaipe.h"
+i"Integrantes.h"
+i"Naipes.h"
+
+N/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/Classes/IntegrantesNaipeTableViewController.xib
+c000000004D79A9880000000000001CB4
+t1299818888
+s7348
+
+N/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/Classes/IntegrantesTableViewController.h
+c000000004D84C9E400000000000002B4
+t1300548068
+s692
+i<UIKit/UIKit.h>
+
+N/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/Classes/IntegrantesTableViewController.m
+c000000004D84F68000000000000024B3
+t1300559488
+s9395
+i"IntegrantesTableViewController.h"
+i"Integrantes.h"
+i"ViewWithWebViewController.h"
+
+N/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/Classes/IntegrantesTableViewController.xib
+c000000004D84C4AA0000000000004E7D
+t1300546730
+s20093
+
+N/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/Classes/IntegrantesViewController.h
+c000000004D84F4290000000000000152
+t1300558889
+s338
+i<UIKit/UIKit.h>
+
+N/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/Classes/IntegrantesViewController.m
+c000000004D84F44000000000000005DE
+t1300558912
+s1502
+i"IntegrantesViewController.h"
+
+N/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/Classes/IntegrantesViewController.xib
+c000000004D84F3B40000000000001886
+t1300558772
+s6278
+
+N/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/Classes/Naipes.h
+c000000004D7C437100000000000001F3
+t1299989361
+s499
+i<Foundation/Foundation.h>
+
+N/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/Classes/Naipes.m
+c000000004D8431A90000000000000AEA
+t1300509097
+s2794
+i"Naipes.h"
+i"Conexao.h"
+i"Integrantes.h"
+
+N/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/Classes/NaipesTableViewController.h
+c000000004D84B6CF000000000000016E
+t1300543183
+s366
+i<UIKit/UIKit.h>
+
+N/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/Classes/NaipesTableViewController.m
+c000000004D84EEE800000000000019C9
+t1300557544
+s6601
+i"NaipesTableViewController.h"
+i"Naipes.h"
+i"NaipesViewController.h"
+i"IntegrantesNaipeTableViewController.h"
+i"Integrantes.h"
+i"IntegranteNaipe.h"
+
+N/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/Classes/NaipesTableViewController.xib
+c000000004D84E79400000000000049F9
+t1300555668
+s18937
+
+N/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/Classes/NaipesViewController.h
+c000000004D7E1E8A00000000000001D6
+t1300110986
+s470
+i<UIKit/UIKit.h>
+
+N/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/Classes/NaipesViewController.m
+c000000004D84E26C000000000000080E
+t1300554348
+s2062
+i"NaipesViewController.h"
+i"Naipes.h"
+
+N/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/Classes/NaipesViewController.xib
+c000000004D7E1F0F0000000000005CEF
+t1300111119
+s23791
+
+N/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/Classes/ViewWithWebViewController.h
+c000000004D84F6E500000000000001B6
+t1300559589
+s438
+i<UIKit/UIKit.h>
+
+N/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/Classes/ViewWithWebViewController.m
+c000000004D84F77A00000000000006DE
+t1300559738
+s1758
+i"ViewWithWebViewController.h"
+i"Integrantes.h"
+
+N/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/Classes/ViewWithWebViewController.xib
+c000000004D84F6100000000000001886
+t1300559376
+s6278
+
+N/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/Classes/WorshipManagerAppDelegate.h
+c000000004D7C3DE60000000000000177
+t1299987942
+s375
+i<UIKit/UIKit.h>
+
+N/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/Classes/WorshipManagerAppDelegate.m
+c000000004DA0BD300000000000001202
+t1302379824
+s4610
+i"WorshipManagerAppDelegate.h"
+i"NaipesTableViewController.h"
+i"IntegrantesTableViewController.h"
+
+N/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/MainWindow.xib
+c000000004D7996A0000000000000212B
+t1299814048
+s8491
+
+N/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/Teste.png
+c000000004D84A2BC0000000000001510
+t1300538044
+s5392
+
+N/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/WorshipManager.sqlite
+c000000004D7995140000000000007000
+t1299813652
+s28672
+
+N/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/WorshipManagerNew.sql
+c000000004D7A82A40000000000000528
+t1299874468
+s1320
+
+N/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/WorshipManagerNew.sqlite
+c000000004D84F2160000000000006000
+t1300558358
+s24576
+
+N/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/WorshipManager_Prefix.pch
+c000000004D7996A000000000000000C5
+t1299814048
+s197
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/Debug-iphonesimulator/WorshipManager.app
+t1302379827
+s782
+
+N/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/Debug-iphonesimulator/WorshipManager.app.dSYM
+t1302379827
+s102
+
+N/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/Debug-iphonesimulator/WorshipManager.app/Info.plist
+t1301446896
+s668
+
+N/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/Debug-iphonesimulator/WorshipManager.app/IntegrantesNaipeTableViewController.nib
+t1300364288
+s1516
+
+N/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/Debug-iphonesimulator/WorshipManager.app/IntegrantesTableViewController.nib
+t1300546747
+s1924
+
+N/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/Debug-iphonesimulator/WorshipManager.app/IntegrantesViewController.nib
+t2
+s0
+
+N/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/Debug-iphonesimulator/WorshipManager.app/MainWindow.nib
+t1300364287
+s1538
+
+N/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/Debug-iphonesimulator/WorshipManager.app/NaipesTableViewController.nib
+t1300555675
+s1491
+
+N/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/Debug-iphonesimulator/WorshipManager.app/NaipesViewController.nib
+t1300364287
+s3030
+
+N/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/Debug-iphonesimulator/WorshipManager.app/PkgInfo
+t1301446896
+s8
+
+N/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/Debug-iphonesimulator/WorshipManager.app/Teste.png
+t1300538197
+s5392
+
+N/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/Debug-iphonesimulator/WorshipManager.app/ViewWithWebViewController.nib
+t1300559399
+s1231
+
+N/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/Debug-iphonesimulator/WorshipManager.app/WorshipManager
+t1302379827
+s60992
+
+N/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/Debug-iphonesimulator/WorshipManager.app/WorshipManager.sqlite
+t1299822932
+s28672
+
+N/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/Debug-iphonesimulator/WorshipManager.app/WorshipManagerNew.sql
+t2
+s0
+
+N/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/Debug-iphonesimulator/WorshipManager.app/WorshipManagerNew.sqlite
+t1300558413
+s24576
+
+N/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/Debug-iphonesimulator/WorshipManager.app/default.png
+t1300557391
+s884198
+
+N/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/Debug-iphonesimulator/WorshipManager.app/icon.png
+t1300551790
+s7307
+
+N/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/Debug-iphonesimulator/WorshipManager.app/icon@2x.png
+t1300556561
+s19198
+
+N/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/Debug-iphonesimulator/WorshipManager.app/icon@x2.png
+t1300551790
+s19198
+
+N/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/Debug-iphonesimulator/WorshipManager.app/integrantes.png
+t1300556962
+s5094
+
+N/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/Debug-iphonesimulator/WorshipManager.app/integrantes@2x.png
+t1300556874
+s9775
+
+N/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/Debug-iphonesimulator/WorshipManager.app/naipes.png
+t1300557039
+s2351
+
+N/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/Debug-iphonesimulator/WorshipManager.app/naipes@2x.png
+t1300557039
+s5759
+
+N/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/Debug-iphonesimulator/WorshipManager.app/person.png
+t1300552332
+s2784
+
+N/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/WorshipManager.build/Debug-iphonesimulator/WorshipManager.build/Objects-normal/i386/Conexao.o
+t1300558575
+s7808
+
+N/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/WorshipManager.build/Debug-iphonesimulator/WorshipManager.build/Objects-normal/i386/IntegranteNaipe.o
+t1300364289
+s11112
+
+N/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/WorshipManager.build/Debug-iphonesimulator/WorshipManager.build/Objects-normal/i386/Integrantes.o
+t1300365603
+s23420
+
+N/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/WorshipManager.build/Debug-iphonesimulator/WorshipManager.build/Objects-normal/i386/Integrantes.s
+t1300365369
+s98163
+
+N/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/WorshipManager.build/Debug-iphonesimulator/WorshipManager.build/Objects-normal/i386/IntegrantesNaipeTableViewController.o
+t1300548069
+s47196
+
+N/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/WorshipManager.build/Debug-iphonesimulator/WorshipManager.build/Objects-normal/i386/IntegrantesTableViewController.o
+t1300559589
+s62316
+
+N/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/WorshipManager.build/Debug-iphonesimulator/WorshipManager.build/Objects-normal/i386/IntegrantesViewController.o
+t2
+s0
+
+N/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/WorshipManager.build/Debug-iphonesimulator/WorshipManager.build/Objects-normal/i386/Naipes.o
+t1300509100
+s13856
+
+N/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/WorshipManager.build/Debug-iphonesimulator/WorshipManager.build/Objects-normal/i386/NaipesTableViewController.o
+t1300557582
+s55012
+
+N/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/WorshipManager.build/Debug-iphonesimulator/WorshipManager.build/Objects-normal/i386/NaipesViewController.o
+t1300554349
+s46828
+
+N/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/WorshipManager.build/Debug-iphonesimulator/WorshipManager.build/Objects-normal/i386/ViewWithWebViewController.o
+t1300559738
+s42040
+
+N/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/WorshipManager.build/Debug-iphonesimulator/WorshipManager.build/Objects-normal/i386/WorshipManager.LinkFileList
+c000000004D84F62600000000000006BB
+t1300559398
+s1723
+
+N/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/WorshipManager.build/Debug-iphonesimulator/WorshipManager.build/Objects-normal/i386/WorshipManagerAppDelegate.o
+t1302379826
+s61012
+
+N/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/WorshipManager.build/Debug-iphonesimulator/WorshipManager.build/Objects-normal/i386/main.o
+t1300364289
+s6344
+
+N/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/default.png
+c000000004D84EE3C00000000000D7DE6
+t1300557372
+s884198
+
+N/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/icon.png
+c000000004D84D8060000000000001C8B
+t1300551686
+s7307
+
+N/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/icon@2x.png
+c000000004D84D7E90000000000004AFE
+t1300551657
+s19198
+
+N/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/icon@x2.png
+c000000004D84D7E90000000000004AFE
+t1300551657
+s19198
+
+N/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/integrantes.png
+c000000004D84EC7000000000000013E6
+t1300556912
+s5094
+
+N/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/integrantes@2x.png
+c000000004D84EC44000000000000262F
+t1300556868
+s9775
+
+N/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/main.m
+c000000004D7996A0000000000000016B
+t1299814048
+s363
+i<UIKit/UIKit.h>
+
+N/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/naipes.png
+c000000004D84ECD8000000000000092F
+t1300557016
+s2351
+
+N/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/naipes@2x.png
+c000000004D84ECC4000000000000167F
+t1300556996
+s5759
+
+N/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/person.png
+c000000004D84DA7D0000000000000AE0
+t1300552317
+s2784
+
+N/Xcode3/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D5C9B4E0000000000000110
+t1297914702
+s272
+
+N/Xcode3/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/AddressBook.framework/AddressBook
+c000000004D54D3440000000000078770
+t1297404740
+s493424
+
+N/Xcode3/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/AddressBookUI.framework/AddressBookUI
+c000000004D5C9BB80000000000168430
+t1297914808
+s1475632
+
+N/Xcode3/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54CFFA00000000002999B0
+t1297403898
+s2726320
+
+N/Xcode3/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54CFE5000000000029DA70
+t1297403877
+s2742896
+
+N/Xcode3/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54CFB80000000000001466
+t1297403832
+s5222
+
+N/Xcode3/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5615B40000000000000AA1
+t1297487284
+s2721
+
+N/Xcode3/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5616030000000000766870
+t1297487363
+s7759984
+
+N/Xcode3/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/sqlite3.h
+c000000004D54CB5C0000000000045296
+t1297402716
+s283286
+
+N/Xcode3/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/lib/libsqlite3.0.dylib
+c000000004D54CB720000000000099500
+t1297402738
+s627968
+
+N/var/folders/5p/5pJ5ajM3E+iiQKmJEA8GxU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/WorshipManager_Prefix-amwsohxbzlyscdarojnwoygvfgtv/WorshipManager_Prefix.pch.gch
+t1300364289
+s15814064
+
+N/var/folders/5p/5pJ5ajM3E+iiQKmJEA8GxU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/WorshipManager_Prefix-bfdncgqhfkrmhzgpsvgfbmdgxiqz/WorshipManager_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/5p/5pJ5ajM3E+iiQKmJEA8GxU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/WorshipManager_Prefix-czumfjgeklzvclgwmrhdtjnswmzh/WorshipManager_Prefix.pch.gch
+t1299814817
+s15453392
+
+NWorshipManager-Info.plist
+c000000004D84D86C00000000000003A2
+t1300551788
+s930
+
+C<C0021:'CompileC Integrantes.o':P9:W0>
+s322058168.987192
+e322058169.076426
+r1
+xCompileC
+xbuild/WorshipManager.build/Debug-iphonesimulator/WorshipManager.build/Objects-normal/i386/Integrantes.o
+x/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/Classes/Integrantes.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@90"Compile /Users/dario/Documents/Iphone/Worship Manager/WorshipManager/Classes/Integrantes.m322058168#322058169#0(0"0(0#0#82"/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/Classes/Integrantes.m2336574854833401344#2328"    cd "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager"    setenv LANG en_US.US-ASCII    setenv PATH "/Xcode3/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcode3/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcode3/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Xcode3/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/WorshipManager.build/Debug-iphonesimulator/WorshipManager.build/WorshipManager-generated-files.hmap" "-I/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/WorshipManager.build/Debug-iphonesimulator/WorshipManager.build/WorshipManager-own-target-headers.hmap" "-I/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/WorshipManager.build/Debug-iphonesimulator/WorshipManager.build/WorshipManager-all-target-headers.hmap" -iquote "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/WorshipManager.build/Debug-iphonesimulator/WorshipManager.build/WorshipManager-project-headers.hmap" "-F/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/Debug-iphonesimulator" "-I/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/Debug-iphonesimulator/include" "-I/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/WorshipManager.build/Debug-iphonesimulator/WorshipManager.build/DerivedSources/i386" "-I/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/WorshipManager.build/Debug-iphonesimulator/WorshipManager.build/DerivedSources" -include /var/folders/5p/5pJ5ajM3E+iiQKmJEA8GxU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/WorshipManager_Prefix-amwsohxbzlyscdarojnwoygvfgtv/WorshipManager_Prefix.pch -S "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/Classes/Integrantes.m" -o "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/WorshipManager.build/Debug-iphonesimulator/WorshipManager.build/Objects-normal/i386/Integrantes.s"0#
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies324072624#324072624#0(0"0(0#1#0"29836824280170608#0"0#
+
+CCompileC build/WorshipManager.build/Debug-iphonesimulator/WorshipManager.build/Objects-normal/i386/Conexao.o "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/Classes/Conexao.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s322251375.722501
+e322251375.860828
+r1
+xCompileC
+xbuild/WorshipManager.build/Debug-iphonesimulator/WorshipManager.build/Objects-normal/i386/Conexao.o
+x/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/Classes/Conexao.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/dario/Documents/Iphone/Worship Manager/WorshipManager/Classes/Conexao.m322251375#322251375#0(0"0(0#0#78"/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/Classes/Conexao.m8617341376#2320"    cd "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager"    setenv LANG en_US.US-ASCII    setenv PATH "/Xcode3/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcode3/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcode3/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Xcode3/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/WorshipManager.build/Debug-iphonesimulator/WorshipManager.build/WorshipManager-generated-files.hmap" "-I/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/WorshipManager.build/Debug-iphonesimulator/WorshipManager.build/WorshipManager-own-target-headers.hmap" "-I/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/WorshipManager.build/Debug-iphonesimulator/WorshipManager.build/WorshipManager-all-target-headers.hmap" -iquote "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/WorshipManager.build/Debug-iphonesimulator/WorshipManager.build/WorshipManager-project-headers.hmap" "-F/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/Debug-iphonesimulator" "-I/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/Debug-iphonesimulator/include" "-I/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/WorshipManager.build/Debug-iphonesimulator/WorshipManager.build/DerivedSources/i386" "-I/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/WorshipManager.build/Debug-iphonesimulator/WorshipManager.build/DerivedSources" -include /var/folders/5p/5pJ5ajM3E+iiQKmJEA8GxU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/WorshipManager_Prefix-amwsohxbzlyscdarojnwoygvfgtv/WorshipManager_Prefix.pch -c "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/Classes/Conexao.m" -o "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/WorshipManager.build/Debug-iphonesimulator/WorshipManager.build/Objects-normal/i386/Conexao.o"0#
+
+CCompileC build/WorshipManager.build/Debug-iphonesimulator/WorshipManager.build/Objects-normal/i386/IntegranteNaipe.o "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/Classes/IntegranteNaipe.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s322057089.892306
+e322057089.966376
+r1
+xCompileC
+xbuild/WorshipManager.build/Debug-iphonesimulator/WorshipManager.build/Objects-normal/i386/IntegranteNaipe.o
+x/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/Classes/IntegranteNaipe.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@94"Compile /Users/dario/Documents/Iphone/Worship Manager/WorshipManager/Classes/IntegranteNaipe.m322057089#322057089#0(0"0(0#0#86"/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/Classes/IntegranteNaipe.m8606201984#2336"    cd "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager"    setenv LANG en_US.US-ASCII    setenv PATH "/Xcode3/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcode3/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcode3/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Xcode3/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/WorshipManager.build/Debug-iphonesimulator/WorshipManager.build/WorshipManager-generated-files.hmap" "-I/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/WorshipManager.build/Debug-iphonesimulator/WorshipManager.build/WorshipManager-own-target-headers.hmap" "-I/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/WorshipManager.build/Debug-iphonesimulator/WorshipManager.build/WorshipManager-all-target-headers.hmap" -iquote "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/WorshipManager.build/Debug-iphonesimulator/WorshipManager.build/WorshipManager-project-headers.hmap" "-F/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/Debug-iphonesimulator" "-I/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/Debug-iphonesimulator/include" "-I/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/WorshipManager.build/Debug-iphonesimulator/WorshipManager.build/DerivedSources/i386" "-I/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/WorshipManager.build/Debug-iphonesimulator/WorshipManager.build/DerivedSources" -include /var/folders/5p/5pJ5ajM3E+iiQKmJEA8GxU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/WorshipManager_Prefix-amwsohxbzlyscdarojnwoygvfgtv/WorshipManager_Prefix.pch -c "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/Classes/IntegranteNaipe.m" -o "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/WorshipManager.build/Debug-iphonesimulator/WorshipManager.build/Objects-normal/i386/IntegranteNaipe.o"0#
+
+CCompileC build/WorshipManager.build/Debug-iphonesimulator/WorshipManager.build/Objects-normal/i386/Integrantes.o "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/Classes/Integrantes.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s322058403.091531
+e322058403.180795
+r1
+xCompileC
+xbuild/WorshipManager.build/Debug-iphonesimulator/WorshipManager.build/Objects-normal/i386/Integrantes.o
+x/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/Classes/Integrantes.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@90"Compile /Users/dario/Documents/Iphone/Worship Manager/WorshipManager/Classes/Integrantes.m322058403#322058403#0(0"0(0#0#82"/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/Classes/Integrantes.m8100120249852975104#2328"    cd "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager"    setenv LANG en_US.US-ASCII    setenv PATH "/Xcode3/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcode3/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcode3/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Xcode3/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/WorshipManager.build/Debug-iphonesimulator/WorshipManager.build/WorshipManager-generated-files.hmap" "-I/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/WorshipManager.build/Debug-iphonesimulator/WorshipManager.build/WorshipManager-own-target-headers.hmap" "-I/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/WorshipManager.build/Debug-iphonesimulator/WorshipManager.build/WorshipManager-all-target-headers.hmap" -iquote "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/WorshipManager.build/Debug-iphonesimulator/WorshipManager.build/WorshipManager-project-headers.hmap" "-F/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/Debug-iphonesimulator" "-I/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/Debug-iphonesimulator/include" "-I/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/WorshipManager.build/Debug-iphonesimulator/WorshipManager.build/DerivedSources/i386" "-I/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/WorshipManager.build/Debug-iphonesimulator/WorshipManager.build/DerivedSources" -include /var/folders/5p/5pJ5ajM3E+iiQKmJEA8GxU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/WorshipManager_Prefix-amwsohxbzlyscdarojnwoygvfgtv/WorshipManager_Prefix.pch -c "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/Classes/Integrantes.m" -o "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/WorshipManager.build/Debug-iphonesimulator/WorshipManager.build/Objects-normal/i386/Integrantes.o"0#
+
+CCompileC build/WorshipManager.build/Debug-iphonesimulator/WorshipManager.build/Objects-normal/i386/IntegrantesNaipeTableViewController.o "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/Classes/IntegrantesNaipeTableViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s322240869.596657
+e322240869.748433
+r1
+xCompileC
+xbuild/WorshipManager.build/Debug-iphonesimulator/WorshipManager.build/Objects-normal/i386/IntegrantesNaipeTableViewController.o
+x/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/Classes/IntegrantesNaipeTableViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@114"Compile /Users/dario/Documents/Iphone/Worship Manager/WorshipManager/Classes/IntegrantesNaipeTableViewController.m322240869#322240869#0(0"0(0#0#106"/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/Classes/IntegrantesNaipeTableViewController.m8603374272#2376"    cd "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager"    setenv LANG en_US.US-ASCII    setenv PATH "/Xcode3/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcode3/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcode3/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Xcode3/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/WorshipManager.build/Debug-iphonesimulator/WorshipManager.build/WorshipManager-generated-files.hmap" "-I/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/WorshipManager.build/Debug-iphonesimulator/WorshipManager.build/WorshipManager-own-target-headers.hmap" "-I/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/WorshipManager.build/Debug-iphonesimulator/WorshipManager.build/WorshipManager-all-target-headers.hmap" -iquote "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/WorshipManager.build/Debug-iphonesimulator/WorshipManager.build/WorshipManager-project-headers.hmap" "-F/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/Debug-iphonesimulator" "-I/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/Debug-iphonesimulator/include" "-I/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/WorshipManager.build/Debug-iphonesimulator/WorshipManager.build/DerivedSources/i386" "-I/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/WorshipManager.build/Debug-iphonesimulator/WorshipManager.build/DerivedSources" -include /var/folders/5p/5pJ5ajM3E+iiQKmJEA8GxU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/WorshipManager_Prefix-amwsohxbzlyscdarojnwoygvfgtv/WorshipManager_Prefix.pch -c "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/Classes/IntegrantesNaipeTableViewController.m" -o "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/WorshipManager.build/Debug-iphonesimulator/WorshipManager.build/Objects-normal/i386/IntegrantesNaipeTableViewController.o"0#
+
+CCompileC build/WorshipManager.build/Debug-iphonesimulator/WorshipManager.build/Objects-normal/i386/IntegrantesTableViewController.o "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/Classes/IntegrantesTableViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s322252389.864315
+e322252389.986042
+r1
+xCompileC
+xbuild/WorshipManager.build/Debug-iphonesimulator/WorshipManager.build/Objects-normal/i386/IntegrantesTableViewController.o
+x/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/Classes/IntegrantesTableViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/Classes/IntegrantesTableViewController.m: In function '-[IntegrantesTableViewController tableView:didSelectRowAtIndexPath:]':
+o/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/Classes/IntegrantesTableViewController.m:289: warning: unused variable 'viewWebView'
+lSLF07#2@109"Compile /Users/dario/Documents/Iphone/Worship Manager/WorshipManager/Classes/IntegrantesTableViewController.m322252389#322252389#0(333"/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/Classes/IntegrantesTableViewController.m: In function '-[IntegrantesTableViewController tableView:didSelectRowAtIndexPath:]':/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/Classes/IntegrantesTableViewController.m:289: warning: unused variable 'viewWebView'1(22@29"Unused variable 'viewWebView'322252389#187#146#0(6@101"/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/Classes/IntegrantesTableViewController.m322252288#289#0#289#0#19"unused variable '*'0(0#0#101"/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/Classes/IntegrantesTableViewController.m8608650880#2366"    cd "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager"    setenv LANG en_US.US-ASCII    setenv PATH "/Xcode3/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcode3/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcode3/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Xcode3/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/WorshipManager.build/Debug-iphonesimulator/WorshipManager.build/WorshipManager-generated-files.hmap" "-I/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/WorshipManager.build/Debug-iphonesimulator/WorshipManager.build/WorshipManager-own-target-headers.hmap" "-I/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/WorshipManager.build/Debug-iphonesimulator/WorshipManager.build/WorshipManager-all-target-headers.hmap" -iquote "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/WorshipManager.build/Debug-iphonesimulator/WorshipManager.build/WorshipManager-project-headers.hmap" "-F/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/Debug-iphonesimulator" "-I/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/Debug-iphonesimulator/include" "-I/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/WorshipManager.build/Debug-iphonesimulator/WorshipManager.build/DerivedSources/i386" "-I/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/WorshipManager.build/Debug-iphonesimulator/WorshipManager.build/DerivedSources" -include /var/folders/5p/5pJ5ajM3E+iiQKmJEA8GxU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/WorshipManager_Prefix-amwsohxbzlyscdarojnwoygvfgtv/WorshipManager_Prefix.pch -c "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/Classes/IntegrantesTableViewController.m" -o "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/WorshipManager.build/Debug-iphonesimulator/WorshipManager.build/Objects-normal/i386/IntegrantesTableViewController.o"0#
+
+CCompileC build/WorshipManager.build/Debug-iphonesimulator/WorshipManager.build/Objects-normal/i386/IntegrantesViewController.o "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/Classes/IntegrantesViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WorshipManager.build/Debug-iphonesimulator/WorshipManager.build/Objects-normal/i386/Naipes.o "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/Classes/Naipes.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s322201899.945462
+e322201900.119812
+r1
+xCompileC
+xbuild/WorshipManager.build/Debug-iphonesimulator/WorshipManager.build/Objects-normal/i386/Naipes.o
+x/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/Classes/Naipes.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@85"Compile /Users/dario/Documents/Iphone/Worship Manager/WorshipManager/Classes/Naipes.m322201899#322201900#0(0"0(0#0#77"/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/Classes/Naipes.m8626862208#2318"    cd "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager"    setenv LANG en_US.US-ASCII    setenv PATH "/Xcode3/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcode3/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcode3/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Xcode3/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/WorshipManager.build/Debug-iphonesimulator/WorshipManager.build/WorshipManager-generated-files.hmap" "-I/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/WorshipManager.build/Debug-iphonesimulator/WorshipManager.build/WorshipManager-own-target-headers.hmap" "-I/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/WorshipManager.build/Debug-iphonesimulator/WorshipManager.build/WorshipManager-all-target-headers.hmap" -iquote "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/WorshipManager.build/Debug-iphonesimulator/WorshipManager.build/WorshipManager-project-headers.hmap" "-F/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/Debug-iphonesimulator" "-I/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/Debug-iphonesimulator/include" "-I/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/WorshipManager.build/Debug-iphonesimulator/WorshipManager.build/DerivedSources/i386" "-I/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/WorshipManager.build/Debug-iphonesimulator/WorshipManager.build/DerivedSources" -include /var/folders/5p/5pJ5ajM3E+iiQKmJEA8GxU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/WorshipManager_Prefix-amwsohxbzlyscdarojnwoygvfgtv/WorshipManager_Prefix.pch -c "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/Classes/Naipes.m" -o "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/WorshipManager.build/Debug-iphonesimulator/WorshipManager.build/Objects-normal/i386/Naipes.o"0#
+
+CCompileC build/WorshipManager.build/Debug-iphonesimulator/WorshipManager.build/Objects-normal/i386/NaipesTableViewController.o "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/Classes/NaipesTableViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s322250382.584909
+e322250382.843752
+r1
+xCompileC
+xbuild/WorshipManager.build/Debug-iphonesimulator/WorshipManager.build/Objects-normal/i386/NaipesTableViewController.o
+x/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/Classes/NaipesTableViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@104"Compile /Users/dario/Documents/Iphone/Worship Manager/WorshipManager/Classes/NaipesTableViewController.m322250382#322250382#0(0"0(0#0#96"/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/Classes/NaipesTableViewController.m8605921280#2356"    cd "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager"    setenv LANG en_US.US-ASCII    setenv PATH "/Xcode3/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcode3/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcode3/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Xcode3/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/WorshipManager.build/Debug-iphonesimulator/WorshipManager.build/WorshipManager-generated-files.hmap" "-I/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/WorshipManager.build/Debug-iphonesimulator/WorshipManager.build/WorshipManager-own-target-headers.hmap" "-I/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/WorshipManager.build/Debug-iphonesimulator/WorshipManager.build/WorshipManager-all-target-headers.hmap" -iquote "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/WorshipManager.build/Debug-iphonesimulator/WorshipManager.build/WorshipManager-project-headers.hmap" "-F/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/Debug-iphonesimulator" "-I/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/Debug-iphonesimulator/include" "-I/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/WorshipManager.build/Debug-iphonesimulator/WorshipManager.build/DerivedSources/i386" "-I/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/WorshipManager.build/Debug-iphonesimulator/WorshipManager.build/DerivedSources" -include /var/folders/5p/5pJ5ajM3E+iiQKmJEA8GxU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/WorshipManager_Prefix-amwsohxbzlyscdarojnwoygvfgtv/WorshipManager_Prefix.pch -c "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/Classes/NaipesTableViewController.m" -o "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/WorshipManager.build/Debug-iphonesimulator/WorshipManager.build/Objects-normal/i386/NaipesTableViewController.o"0#
+
+CCompileC build/WorshipManager.build/Debug-iphonesimulator/WorshipManager.build/Objects-normal/i386/NaipesViewController.o "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/Classes/NaipesViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s322247149.019820
+e322247149.265836
+r1
+xCompileC
+xbuild/WorshipManager.build/Debug-iphonesimulator/WorshipManager.build/Objects-normal/i386/NaipesViewController.o
+x/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/Classes/NaipesViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@99"Compile /Users/dario/Documents/Iphone/Worship Manager/WorshipManager/Classes/NaipesViewController.m322247149#322247149#0(0"0(0#0#91"/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/Classes/NaipesViewController.m8616973248#2346"    cd "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager"    setenv LANG en_US.US-ASCII    setenv PATH "/Xcode3/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcode3/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcode3/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Xcode3/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/WorshipManager.build/Debug-iphonesimulator/WorshipManager.build/WorshipManager-generated-files.hmap" "-I/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/WorshipManager.build/Debug-iphonesimulator/WorshipManager.build/WorshipManager-own-target-headers.hmap" "-I/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/WorshipManager.build/Debug-iphonesimulator/WorshipManager.build/WorshipManager-all-target-headers.hmap" -iquote "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/WorshipManager.build/Debug-iphonesimulator/WorshipManager.build/WorshipManager-project-headers.hmap" "-F/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/Debug-iphonesimulator" "-I/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/Debug-iphonesimulator/include" "-I/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/WorshipManager.build/Debug-iphonesimulator/WorshipManager.build/DerivedSources/i386" "-I/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/WorshipManager.build/Debug-iphonesimulator/WorshipManager.build/DerivedSources" -include /var/folders/5p/5pJ5ajM3E+iiQKmJEA8GxU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/WorshipManager_Prefix-amwsohxbzlyscdarojnwoygvfgtv/WorshipManager_Prefix.pch -c "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/Classes/NaipesViewController.m" -o "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/WorshipManager.build/Debug-iphonesimulator/WorshipManager.build/Objects-normal/i386/NaipesViewController.o"0#
+
+CCompileC build/WorshipManager.build/Debug-iphonesimulator/WorshipManager.build/Objects-normal/i386/ViewWithWebViewController.o "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/Classes/ViewWithWebViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s322252538.679857
+e322252538.805670
+r1
+xCompileC
+xbuild/WorshipManager.build/Debug-iphonesimulator/WorshipManager.build/Objects-normal/i386/ViewWithWebViewController.o
+x/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/Classes/ViewWithWebViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@104"Compile /Users/dario/Documents/Iphone/Worship Manager/WorshipManager/Classes/ViewWithWebViewController.m322252538#322252538#0(0"0(0#0#96"/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/Classes/ViewWithWebViewController.m8617650848#2356"    cd "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager"    setenv LANG en_US.US-ASCII    setenv PATH "/Xcode3/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcode3/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcode3/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Xcode3/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/WorshipManager.build/Debug-iphonesimulator/WorshipManager.build/WorshipManager-generated-files.hmap" "-I/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/WorshipManager.build/Debug-iphonesimulator/WorshipManager.build/WorshipManager-own-target-headers.hmap" "-I/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/WorshipManager.build/Debug-iphonesimulator/WorshipManager.build/WorshipManager-all-target-headers.hmap" -iquote "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/WorshipManager.build/Debug-iphonesimulator/WorshipManager.build/WorshipManager-project-headers.hmap" "-F/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/Debug-iphonesimulator" "-I/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/Debug-iphonesimulator/include" "-I/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/WorshipManager.build/Debug-iphonesimulator/WorshipManager.build/DerivedSources/i386" "-I/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/WorshipManager.build/Debug-iphonesimulator/WorshipManager.build/DerivedSources" -include /var/folders/5p/5pJ5ajM3E+iiQKmJEA8GxU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/WorshipManager_Prefix-amwsohxbzlyscdarojnwoygvfgtv/WorshipManager_Prefix.pch -c "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/Classes/ViewWithWebViewController.m" -o "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/WorshipManager.build/Debug-iphonesimulator/WorshipManager.build/Objects-normal/i386/ViewWithWebViewController.o"0#
+
+CCompileC build/WorshipManager.build/Debug-iphonesimulator/WorshipManager.build/Objects-normal/i386/WorshipManagerAppDelegate.o "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/Classes/WorshipManagerAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s324072624.520065
+e324072626.367346
+r1
+xCompileC
+xbuild/WorshipManager.build/Debug-iphonesimulator/WorshipManager.build/Objects-normal/i386/WorshipManagerAppDelegate.o
+x/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/Classes/WorshipManagerAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@104"Compile /Users/dario/Documents/Iphone/Worship Manager/WorshipManager/Classes/WorshipManagerAppDelegate.m324072624#324072626#0(0"0(0#0#96"/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/Classes/WorshipManagerAppDelegate.m5557565538201465856#2356"    cd "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager"    setenv LANG en_US.US-ASCII    setenv PATH "/Xcode3/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcode3/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcode3/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Xcode3/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/WorshipManager.build/Debug-iphonesimulator/WorshipManager.build/WorshipManager-generated-files.hmap" "-I/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/WorshipManager.build/Debug-iphonesimulator/WorshipManager.build/WorshipManager-own-target-headers.hmap" "-I/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/WorshipManager.build/Debug-iphonesimulator/WorshipManager.build/WorshipManager-all-target-headers.hmap" -iquote "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/WorshipManager.build/Debug-iphonesimulator/WorshipManager.build/WorshipManager-project-headers.hmap" "-F/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/Debug-iphonesimulator" "-I/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/Debug-iphonesimulator/include" "-I/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/WorshipManager.build/Debug-iphonesimulator/WorshipManager.build/DerivedSources/i386" "-I/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/WorshipManager.build/Debug-iphonesimulator/WorshipManager.build/DerivedSources" -include /var/folders/5p/5pJ5ajM3E+iiQKmJEA8GxU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/WorshipManager_Prefix-amwsohxbzlyscdarojnwoygvfgtv/WorshipManager_Prefix.pch -c "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/Classes/WorshipManagerAppDelegate.m" -o "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/WorshipManager.build/Debug-iphonesimulator/WorshipManager.build/Objects-normal/i386/WorshipManagerAppDelegate.o"0#
+
+CCompileC build/WorshipManager.build/Debug-iphonesimulator/WorshipManager.build/Objects-normal/i386/main.o "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s322057089.412065
+e322057089.479148
+r1
+xCompileC
+xbuild/WorshipManager.build/Debug-iphonesimulator/WorshipManager.build/Objects-normal/i386/main.o
+x/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/dario/Documents/Iphone/Worship Manager/WorshipManager/main.m322057089#322057089#0(0"0(0#0#67"/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/main.m8602258656#2306"    cd "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager"    setenv LANG en_US.US-ASCII    setenv PATH "/Xcode3/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcode3/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcode3/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Xcode3/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/WorshipManager.build/Debug-iphonesimulator/WorshipManager.build/WorshipManager-generated-files.hmap" "-I/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/WorshipManager.build/Debug-iphonesimulator/WorshipManager.build/WorshipManager-own-target-headers.hmap" "-I/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/WorshipManager.build/Debug-iphonesimulator/WorshipManager.build/WorshipManager-all-target-headers.hmap" -iquote "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/WorshipManager.build/Debug-iphonesimulator/WorshipManager.build/WorshipManager-project-headers.hmap" "-F/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/Debug-iphonesimulator" "-I/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/Debug-iphonesimulator/include" "-I/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/WorshipManager.build/Debug-iphonesimulator/WorshipManager.build/DerivedSources/i386" "-I/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/WorshipManager.build/Debug-iphonesimulator/WorshipManager.build/DerivedSources" -include /var/folders/5p/5pJ5ajM3E+iiQKmJEA8GxU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/WorshipManager_Prefix-amwsohxbzlyscdarojnwoygvfgtv/WorshipManager_Prefix.pch -c "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/main.m" -o "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/WorshipManager.build/Debug-iphonesimulator/WorshipManager.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/Classes/IntegrantesNaipeTableViewController.xib"
+s322057087.603593
+e322057088.046098
+r1
+xCompileXIB
+x/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/Classes/IntegrantesNaipeTableViewController.xib
+lSLF07#2@58"CompileXIB Classes/IntegrantesNaipeTableViewController.xib322057087#322057088#0(0"0(0#0#108"/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/Classes/IntegrantesNaipeTableViewController.xib8602044448#695"    cd "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Xcode3/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcode3/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcode3/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/Debug-iphonesimulator/WorshipManager.app/IntegrantesNaipeTableViewController.nib" "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/Classes/IntegrantesNaipeTableViewController.xib" --sdk /Xcode3/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/Classes/IntegrantesTableViewController.xib"
+s322239546.809030
+e322239547.248944
+r1
+xCompileXIB
+x/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/Classes/IntegrantesTableViewController.xib
+lSLF07#2@53"CompileXIB Classes/IntegrantesTableViewController.xib322239546#322239547#0(0"0(0#0#103"/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/Classes/IntegrantesTableViewController.xib8605903840#685"    cd "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Xcode3/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcode3/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcode3/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/Debug-iphonesimulator/WorshipManager.app/IntegrantesTableViewController.nib" "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/Classes/IntegrantesTableViewController.xib" --sdk /Xcode3/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/Classes/IntegrantesViewController.xib"
+r0
+
+CCompileXIB "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/Classes/NaipesTableViewController.xib"
+s322248475.340220
+e322248475.800247
+r1
+xCompileXIB
+x/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/Classes/NaipesTableViewController.xib
+lSLF07#2@48"CompileXIB Classes/NaipesTableViewController.xib322248475#322248475#0(0"0(0#0#98"/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/Classes/NaipesTableViewController.xib8617395072#675"    cd "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Xcode3/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcode3/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcode3/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/Debug-iphonesimulator/WorshipManager.app/NaipesTableViewController.nib" "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/Classes/NaipesTableViewController.xib" --sdk /Xcode3/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/Classes/NaipesViewController.xib"
+s322057087.540565
+e322057088.034747
+r1
+xCompileXIB
+x/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/Classes/NaipesViewController.xib
+lSLF07#2@43"CompileXIB Classes/NaipesViewController.xib322057087#322057088#0(0"0(0#0#93"/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/Classes/NaipesViewController.xib7449356622832365568#665"    cd "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Xcode3/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcode3/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcode3/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/Debug-iphonesimulator/WorshipManager.app/NaipesViewController.nib" "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/Classes/NaipesViewController.xib" --sdk /Xcode3/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/Classes/ViewWithWebViewController.xib"
+s322252198.279984
+e322252199.085953
+r1
+xCompileXIB
+x/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/Classes/ViewWithWebViewController.xib
+lSLF07#2@48"CompileXIB Classes/ViewWithWebViewController.xib322252198#322252199#0(0"0(0#0#98"/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/Classes/ViewWithWebViewController.xib7449356622832365568#675"    cd "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Xcode3/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcode3/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcode3/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/Debug-iphonesimulator/WorshipManager.app/ViewWithWebViewController.nib" "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/Classes/ViewWithWebViewController.xib" --sdk /Xcode3/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/MainWindow.xib"
+s322057087.062364
+e322057087.603233
+r1
+xCompileXIB
+x/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib322057087#322057087#0(0"0(0#0#75"/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/MainWindow.xib8604467328#637"    cd "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Xcode3/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcode3/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcode3/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/Debug-iphonesimulator/WorshipManager.app/MainWindow.nib" "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/MainWindow.xib" --sdk /Xcode3/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCpResource build/Debug-iphonesimulator/WorshipManager.app/Teste.png Teste.png
+s322230997.462956
+e322230997.529617
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/WorshipManager.app/Teste.png
+xTeste.png
+lSLF07#2@14"Copy Teste.png322230997#322230997#0(0"0(0#0#70"/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/Teste.png8603932032#537"    cd "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager"    setenv PATH "/Xcode3/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcode3/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcode3/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/Teste.png" "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/Debug-iphonesimulator/WorshipManager.app"0#
+
+CCpResource build/Debug-iphonesimulator/WorshipManager.app/WorshipManager.sqlite WorshipManager.sqlite
+s321515732.485199
+e321515732.583430
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/WorshipManager.app/WorshipManager.sqlite
+xWorshipManager.sqlite
+lSLF07#2@26"Copy WorshipManager.sqlite321515732#321515732#0(0"0(0#0#82"/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/WorshipManager.sqlite8618229856#558"    cd "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/WorshipManager.sqlite" "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/Debug-iphonesimulator/WorshipManager.app"0#
+
+CCpResource build/Debug-iphonesimulator/WorshipManager.app/WorshipManagerNew.sql WorshipManagerNew.sql
+r0
+
+CCpResource build/Debug-iphonesimulator/WorshipManager.app/WorshipManagerNew.sqlite WorshipManagerNew.sqlite
+s322251213.814645
+e322251213.820892
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/WorshipManager.app/WorshipManagerNew.sqlite
+xWorshipManagerNew.sqlite
+lSLF07#2@29"Copy WorshipManagerNew.sqlite322251213#322251213#0(0"0(0#0#85"/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/WorshipManagerNew.sqlite8599867488#552"    cd "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager"    setenv PATH "/Xcode3/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcode3/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcode3/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/WorshipManagerNew.sqlite" "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/Debug-iphonesimulator/WorshipManager.app"0#
+
+CCpResource build/Debug-iphonesimulator/WorshipManager.app/default.png default.png
+s322250191.920507
+e322250191.970603
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/WorshipManager.app/default.png
+xdefault.png
+lSLF07#2@16"Copy default.png322250191#322250191#0(0"0(0#0#72"/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/default.png8603159488#539"    cd "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager"    setenv PATH "/Xcode3/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcode3/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcode3/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/default.png" "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/Debug-iphonesimulator/WorshipManager.app"0#
+
+CCpResource build/Debug-iphonesimulator/WorshipManager.app/icon.png icon.png
+s322244590.268575
+e322244590.279681
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/WorshipManager.app/icon.png
+xicon.png
+lSLF07#2@13"Copy icon.png322244590#322244590#0(0"0(0#0#69"/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/icon.png8606236128#536"    cd "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager"    setenv PATH "/Xcode3/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcode3/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcode3/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/icon.png" "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/Debug-iphonesimulator/WorshipManager.app"0#
+
+CCpResource build/Debug-iphonesimulator/WorshipManager.app/icon@2x.png icon@2x.png
+s322249361.695332
+e322249361.735535
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/WorshipManager.app/icon@2x.png
+xicon@2x.png
+lSLF07#2@16"Copy icon@2x.png322249361#322249361#0(0"0(0#0#72"/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/icon@2x.png8603269280#539"    cd "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager"    setenv PATH "/Xcode3/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcode3/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcode3/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/icon@2x.png" "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/Debug-iphonesimulator/WorshipManager.app"0#
+
+CCpResource build/Debug-iphonesimulator/WorshipManager.app/icon@x2.png icon@x2.png
+s322244590.269271
+e322244590.279847
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/WorshipManager.app/icon@x2.png
+xicon@x2.png
+lSLF07#2@16"Copy icon@x2.png322244590#322244590#0(0"0(0#0#72"/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/icon@x2.png8606124800#539"    cd "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager"    setenv PATH "/Xcode3/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcode3/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcode3/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/icon@x2.png" "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/Debug-iphonesimulator/WorshipManager.app"0#
+
+CCpResource build/Debug-iphonesimulator/WorshipManager.app/integrantes.png integrantes.png
+s322249762.743116
+e322249762.797274
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/WorshipManager.app/integrantes.png
+xintegrantes.png
+lSLF07#2@20"Copy integrantes.png322249762#322249762#0(0"0(0#0#76"/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/integrantes.png8602470528#543"    cd "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager"    setenv PATH "/Xcode3/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcode3/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcode3/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/integrantes.png" "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/Debug-iphonesimulator/WorshipManager.app"0#
+
+CCpResource build/Debug-iphonesimulator/WorshipManager.app/integrantes@2x.png integrantes@2x.png
+s322249674.823927
+e322249674.860636
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/WorshipManager.app/integrantes@2x.png
+xintegrantes@2x.png
+lSLF07#2@23"Copy integrantes@2x.png322249674#322249674#0(0"0(0#0#79"/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/integrantes@2x.png8607833216#546"    cd "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager"    setenv PATH "/Xcode3/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcode3/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcode3/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/integrantes@2x.png" "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/Debug-iphonesimulator/WorshipManager.app"0#
+
+CCpResource build/Debug-iphonesimulator/WorshipManager.app/naipes.png naipes.png
+s322249839.053992
+e322249839.082390
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/WorshipManager.app/naipes.png
+xnaipes.png
+lSLF07#2@15"Copy naipes.png322249839#322249839#0(0"0(0#0#71"/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/naipes.png8616907904#538"    cd "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager"    setenv PATH "/Xcode3/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcode3/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcode3/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/naipes.png" "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/Debug-iphonesimulator/WorshipManager.app"0#
+
+CCpResource build/Debug-iphonesimulator/WorshipManager.app/naipes@2x.png naipes@2x.png
+s322249839.054851
+e322249839.084925
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/WorshipManager.app/naipes@2x.png
+xnaipes@2x.png
+lSLF07#2@18"Copy naipes@2x.png322249839#322249839#0(0"0(0#0#74"/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/naipes@2x.png8616521984#541"    cd "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager"    setenv PATH "/Xcode3/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcode3/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcode3/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/naipes@2x.png" "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/Debug-iphonesimulator/WorshipManager.app"0#
+
+CCpResource build/Debug-iphonesimulator/WorshipManager.app/person.png person.png
+s322245132.153843
+e322245132.190271
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/WorshipManager.app/person.png
+xperson.png
+lSLF07#2@15"Copy person.png322245132#322245132#0(0"0(0#0#71"/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/person.png8606175456#538"    cd "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager"    setenv PATH "/Xcode3/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcode3/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcode3/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/person.png" "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/Debug-iphonesimulator/WorshipManager.app"0#
+
+CGenerateDSYMFile "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/Debug-iphonesimulator/WorshipManager.app.dSYM" "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/Debug-iphonesimulator/WorshipManager.app/WorshipManager"
+s324072627.073078
+e324072627.300329
+r1
+xGenerateDSYMFile
+x/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/Debug-iphonesimulator/WorshipManager.app.dSYM
+x/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/Debug-iphonesimulator/WorshipManager.app/WorshipManager
+lSLF07#2@130"GenerateDSYMFile build/Debug-iphonesimulator/WorshipManager.app.dSYM build/Debug-iphonesimulator/WorshipManager.app/WorshipManager324072627#324072627#0(0"0(0#0#122"/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/Debug-iphonesimulator/WorshipManager.app/WorshipManager8646317952#467"    cd "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager"    setenv PATH "/Xcode3/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcode3/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcode3/usr/bin/dsymutil "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/Debug-iphonesimulator/WorshipManager.app/WorshipManager" -o "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/Debug-iphonesimulator/WorshipManager.app.dSYM"0#
+
+CLd "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/Debug-iphonesimulator/WorshipManager.app/WorshipManager" normal i386
+s324072626.367522
+e324072627.072970
+r1
+xLd
+x/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/Debug-iphonesimulator/WorshipManager.app/WorshipManager
+xnormal
+xi386
+lSLF07#2@127"Link /Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/Debug-iphonesimulator/WorshipManager.app/WorshipManager324072626#324072627#0(0"0(0#0#0"8641493536#1103"    cd "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Xcode3/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcode3/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcode3/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Xcode3/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk "-L/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/Debug-iphonesimulator" "-F/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/Debug-iphonesimulator" -filelist "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/WorshipManager.build/Debug-iphonesimulator/WorshipManager.build/Objects-normal/i386/WorshipManager.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -lsqlite3.0 -framework AddressBook -framework AddressBookUI -o "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/Debug-iphonesimulator/WorshipManager.app/WorshipManager"0#
+
+CProcessInfoPlistFile "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/Debug-iphonesimulator/WorshipManager.app/Info.plist" WorshipManager-Info.plist
+s323139696.158914
+e323139696.587483
+r1
+xProcessInfoPlistFile
+x/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/Debug-iphonesimulator/WorshipManager.app/Info.plist
+xWorshipManager-Info.plist
+lSLF07#2@33"Process WorshipManager-Info.plist323139696#323139696#0(0"0(0#0#86"/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/WorshipManager-Info.plist8245905304032995328#566"    cd "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager"    setenv PATH "/Xcode3/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcode3/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility WorshipManager-Info.plist -genpkginfo "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/Debug-iphonesimulator/WorshipManager.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/Debug-iphonesimulator/WorshipManager.app/Info.plist"0#
+
+CProcessPCH /var/folders/5p/5pJ5ajM3E+iiQKmJEA8GxU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/WorshipManager_Prefix-amwsohxbzlyscdarojnwoygvfgtv/WorshipManager_Prefix.pch.gch WorshipManager_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s322057088.404490
+e322057089.411654
+r1
+xProcessPCH
+x/var/folders/5p/5pJ5ajM3E+iiQKmJEA8GxU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/WorshipManager_Prefix-amwsohxbzlyscdarojnwoygvfgtv/WorshipManager_Prefix.pch.gch
+xWorshipManager_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@36"Precompile WorshipManager_Prefix.pch322057088#322057089#0(0"0(0#0#86"/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/WorshipManager_Prefix.pch8605836320#2167"    cd "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager"    setenv LANG en_US.US-ASCII    setenv PATH "/Xcode3/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcode3/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcode3/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Xcode3/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/WorshipManager.build/Debug-iphonesimulator/WorshipManager.build/WorshipManager-generated-files.hmap" "-I/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/WorshipManager.build/Debug-iphonesimulator/WorshipManager.build/WorshipManager-own-target-headers.hmap" "-I/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/WorshipManager.build/Debug-iphonesimulator/WorshipManager.build/WorshipManager-all-target-headers.hmap" -iquote "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/WorshipManager.build/Debug-iphonesimulator/WorshipManager.build/WorshipManager-project-headers.hmap" "-F/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/Debug-iphonesimulator" "-I/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/Debug-iphonesimulator/include" "-I/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/WorshipManager.build/Debug-iphonesimulator/WorshipManager.build/DerivedSources/i386" "-I/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/WorshipManager.build/Debug-iphonesimulator/WorshipManager.build/DerivedSources" -c "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/WorshipManager_Prefix.pch" -o /var/folders/5p/5pJ5ajM3E+iiQKmJEA8GxU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/WorshipManager_Prefix-amwsohxbzlyscdarojnwoygvfgtv/WorshipManager_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/5p/5pJ5ajM3E+iiQKmJEA8GxU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/WorshipManager_Prefix-bfdncgqhfkrmhzgpsvgfbmdgxiqz/WorshipManager_Prefix.pch.gch WorshipManager_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/5p/5pJ5ajM3E+iiQKmJEA8GxU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/WorshipManager_Prefix-czumfjgeklzvclgwmrhdtjnswmzh/WorshipManager_Prefix.pch.gch WorshipManager_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s321507616.520407
+e321507617.973639
+r1
+xProcessPCH
+x/var/folders/5p/5pJ5ajM3E+iiQKmJEA8GxU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/WorshipManager_Prefix-czumfjgeklzvclgwmrhdtjnswmzh/WorshipManager_Prefix.pch.gch
+xWorshipManager_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@36"Precompile WorshipManager_Prefix.pch321507616#321507617#0(0"0(0#0#86"/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/WorshipManager_Prefix.pch8616717888#2179"    cd "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/WorshipManager.build/Debug-iphonesimulator/WorshipManager.build/WorshipManager-generated-files.hmap" "-I/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/WorshipManager.build/Debug-iphonesimulator/WorshipManager.build/WorshipManager-own-target-headers.hmap" "-I/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/WorshipManager.build/Debug-iphonesimulator/WorshipManager.build/WorshipManager-all-target-headers.hmap" -iquote "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/WorshipManager.build/Debug-iphonesimulator/WorshipManager.build/WorshipManager-project-headers.hmap" "-F/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/Debug-iphonesimulator" "-I/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/Debug-iphonesimulator/include" "-I/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/WorshipManager.build/Debug-iphonesimulator/WorshipManager.build/DerivedSources/i386" "-I/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/WorshipManager.build/Debug-iphonesimulator/WorshipManager.build/DerivedSources" -c "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/WorshipManager_Prefix.pch" -o /var/folders/5p/5pJ5ajM3E+iiQKmJEA8GxU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/WorshipManager_Prefix-czumfjgeklzvclgwmrhdtjnswmzh/WorshipManager_Prefix.pch.gch0#
+
+CTouch "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/Debug-iphonesimulator/WorshipManager.app"
+s324072627.300426
+e324072627.382869
+r1
+xTouch
+x/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/Debug-iphonesimulator/WorshipManager.app
+lSLF07#2@113"Touch /Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/Debug-iphonesimulator/WorshipManager.app324072627#324072627#0(0"0(0#0#0"8642155936#327"    cd "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager"    setenv PATH "/Xcode3/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcode3/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/dario/Documents/Iphone/Worship Manager/WorshipManager/build/Debug-iphonesimulator/WorshipManager.app"0#
+

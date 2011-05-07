@@ -1,0 +1,400 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 45;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		1D3623260D0F684500981E51 /* WorshipManagerAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D3623250D0F684500981E51 /* WorshipManagerAppDelegate.m */; };
+		1D60589B0D05DD56006BFB54 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 29B97316FDCFA39411CA2CEA /* main.m */; };
+		1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1D30AB110D05D00D00671497 /* Foundation.framework */; };
+		1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1DF5F4DF0D08C38300B7A737 /* UIKit.framework */; };
+		288765FD0DF74451002DB57D /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 288765FC0DF74451002DB57D /* CoreGraphics.framework */; };
+		28AD733F0D9D9553002E5188 /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 28AD733E0D9D9553002E5188 /* MainWindow.xib */; };
+		A34EAADE1329CE7F002816C3 /* Conexao.m in Sources */ = {isa = PBXBuildFile; fileRef = A34EAADD1329CE7F002816C3 /* Conexao.m */; };
+		A34EAAE01329CEB0002816C3 /* libsqlite3.0.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = A34EAADF1329CEB0002816C3 /* libsqlite3.0.dylib */; };
+		A34EAAF51329CFCD002816C3 /* Naipes.m in Sources */ = {isa = PBXBuildFile; fileRef = A34EAAF41329CFCD002816C3 /* Naipes.m */; };
+		A34EAB031329D339002816C3 /* NaipesTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A34EAB011329D339002816C3 /* NaipesTableViewController.m */; };
+		A34EAB041329D339002816C3 /* NaipesTableViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = A34EAB021329D339002816C3 /* NaipesTableViewController.xib */; };
+		A34EAB4F1329DA47002816C3 /* NaipesViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = A34EAB4D1329DA47002816C3 /* NaipesViewController.xib */; };
+		A34EABA81329E108002816C3 /* IntegrantesNaipeTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A34EABA61329E108002816C3 /* IntegrantesNaipeTableViewController.m */; };
+		A34EABA91329E108002816C3 /* IntegrantesNaipeTableViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = A34EABA71329E108002816C3 /* IntegrantesNaipeTableViewController.xib */; };
+		A34EABB81329E28A002816C3 /* Integrantes.m in Sources */ = {isa = PBXBuildFile; fileRef = A34EABB71329E28A002816C3 /* Integrantes.m */; };
+		A34EAC201329ED64002816C3 /* IntegrantesTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A34EAC1E1329ED64002816C3 /* IntegrantesTableViewController.m */; };
+		A34EAC211329ED64002816C3 /* IntegrantesTableViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = A34EAC1F1329ED64002816C3 /* IntegrantesTableViewController.xib */; };
+		A350E3DC1350AB36009EB849 /* AddressBook.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A350E3DB1350AB36009EB849 /* AddressBook.framework */; };
+		A350E3DE1350AB36009EB849 /* AddressBookUI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A350E3DD1350AB36009EB849 /* AddressBookUI.framework */; };
+		A37676EA132AE29100F07675 /* IntegranteNaipe.m in Sources */ = {isa = PBXBuildFile; fileRef = A37676E9132AE29100F07675 /* IntegranteNaipe.m */; };
+		A37FBB5F1334DA7800C6FE0A /* Teste.png in Resources */ = {isa = PBXBuildFile; fileRef = A37FBB5E1334DA7800C6FE0A /* Teste.png */; };
+		A3A3588013350FA9001AA9F1 /* icon.png in Resources */ = {isa = PBXBuildFile; fileRef = A3A3587E13350FA9001AA9F1 /* icon.png */; };
+		A3A3588113350FA9001AA9F1 /* icon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = A3A3587F13350FA9001AA9F1 /* icon@2x.png */; };
+		A3A358A213351236001AA9F1 /* person.png in Resources */ = {isa = PBXBuildFile; fileRef = A3A358A113351236001AA9F1 /* person.png */; };
+		A3A3592D13352184001AA9F1 /* integrantes.png in Resources */ = {isa = PBXBuildFile; fileRef = A3A3592913352184001AA9F1 /* integrantes.png */; };
+		A3A3592E13352184001AA9F1 /* integrantes@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = A3A3592A13352184001AA9F1 /* integrantes@2x.png */; };
+		A3A3592F13352184001AA9F1 /* naipes.png in Resources */ = {isa = PBXBuildFile; fileRef = A3A3592B13352184001AA9F1 /* naipes.png */; };
+		A3A3593013352184001AA9F1 /* naipes@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = A3A3592C13352184001AA9F1 /* naipes@2x.png */; };
+		A3A35955133525CC001AA9F1 /* default.png in Resources */ = {isa = PBXBuildFile; fileRef = A3A35954133525CC001AA9F1 /* default.png */; };
+		A3FE71F813352ADF00DEDA62 /* WorshipManagerNew.sqlite in Resources */ = {isa = PBXBuildFile; fileRef = A3FE71F713352ADF00DEDA62 /* WorshipManagerNew.sqlite */; };
+		A3FE722813352D9000DEDA62 /* ViewWithWebViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A3FE722613352D9000DEDA62 /* ViewWithWebViewController.m */; };
+		A3FE722913352D9000DEDA62 /* ViewWithWebViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = A3FE722713352D9000DEDA62 /* ViewWithWebViewController.xib */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		1D30AB110D05D00D00671497 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		1D3623240D0F684500981E51 /* WorshipManagerAppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WorshipManagerAppDelegate.h; sourceTree = "<group>"; };
+		1D3623250D0F684500981E51 /* WorshipManagerAppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WorshipManagerAppDelegate.m; sourceTree = "<group>"; };
+		1D6058910D05DD3D006BFB54 /* WorshipManager.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WorshipManager.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		1DF5F4DF0D08C38300B7A737 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		288765FC0DF74451002DB57D /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		28AD733E0D9D9553002E5188 /* MainWindow.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MainWindow.xib; sourceTree = "<group>"; };
+		29B97316FDCFA39411CA2CEA /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		32CA4F630368D1EE00C91783 /* WorshipManager_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WorshipManager_Prefix.pch; sourceTree = "<group>"; };
+		8D1107310486CEB800E47090 /* WorshipManager-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "WorshipManager-Info.plist"; plistStructureDefinitionIdentifier = "com.apple.xcode.plist.structure-definition.iphone.info-plist"; sourceTree = "<group>"; };
+		A34EAADC1329CE7F002816C3 /* Conexao.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Conexao.h; sourceTree = "<group>"; };
+		A34EAADD1329CE7F002816C3 /* Conexao.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Conexao.m; sourceTree = "<group>"; };
+		A34EAADF1329CEB0002816C3 /* libsqlite3.0.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libsqlite3.0.dylib; path = usr/lib/libsqlite3.0.dylib; sourceTree = SDKROOT; };
+		A34EAAF31329CFCD002816C3 /* Naipes.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Naipes.h; sourceTree = "<group>"; };
+		A34EAAF41329CFCD002816C3 /* Naipes.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Naipes.m; sourceTree = "<group>"; };
+		A34EAB001329D339002816C3 /* NaipesTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NaipesTableViewController.h; sourceTree = "<group>"; };
+		A34EAB011329D339002816C3 /* NaipesTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NaipesTableViewController.m; sourceTree = "<group>"; };
+		A34EAB021329D339002816C3 /* NaipesTableViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = NaipesTableViewController.xib; path = Classes/NaipesTableViewController.xib; sourceTree = "<group>"; };
+		A34EAB4D1329DA47002816C3 /* NaipesViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = NaipesViewController.xib; path = Classes/NaipesViewController.xib; sourceTree = "<group>"; };
+		A34EABA51329E108002816C3 /* IntegrantesNaipeTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = IntegrantesNaipeTableViewController.h; sourceTree = "<group>"; };
+		A34EABA61329E108002816C3 /* IntegrantesNaipeTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = IntegrantesNaipeTableViewController.m; sourceTree = "<group>"; };
+		A34EABA71329E108002816C3 /* IntegrantesNaipeTableViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = IntegrantesNaipeTableViewController.xib; path = Classes/IntegrantesNaipeTableViewController.xib; sourceTree = "<group>"; };
+		A34EABB61329E28A002816C3 /* Integrantes.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Integrantes.h; sourceTree = "<group>"; };
+		A34EABB71329E28A002816C3 /* Integrantes.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Integrantes.m; sourceTree = "<group>"; };
+		A34EAC1D1329ED64002816C3 /* IntegrantesTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = IntegrantesTableViewController.h; sourceTree = "<group>"; };
+		A34EAC1E1329ED64002816C3 /* IntegrantesTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = IntegrantesTableViewController.m; sourceTree = "<group>"; };
+		A34EAC1F1329ED64002816C3 /* IntegrantesTableViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = IntegrantesTableViewController.xib; path = Classes/IntegrantesTableViewController.xib; sourceTree = "<group>"; };
+		A350E3DB1350AB36009EB849 /* AddressBook.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AddressBook.framework; path = System/Library/Frameworks/AddressBook.framework; sourceTree = SDKROOT; };
+		A350E3DD1350AB36009EB849 /* AddressBookUI.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AddressBookUI.framework; path = System/Library/Frameworks/AddressBookUI.framework; sourceTree = SDKROOT; };
+		A37676E8132AE29100F07675 /* IntegranteNaipe.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = IntegranteNaipe.h; sourceTree = "<group>"; };
+		A37676E9132AE29100F07675 /* IntegranteNaipe.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = IntegranteNaipe.m; sourceTree = "<group>"; };
+		A37FBB5E1334DA7800C6FE0A /* Teste.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Teste.png; sourceTree = "<group>"; };
+		A3A3587E13350FA9001AA9F1 /* icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon.png; sourceTree = "<group>"; };
+		A3A3587F13350FA9001AA9F1 /* icon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon@2x.png"; sourceTree = "<group>"; };
+		A3A358A113351236001AA9F1 /* person.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = person.png; sourceTree = "<group>"; };
+		A3A3592913352184001AA9F1 /* integrantes.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = integrantes.png; sourceTree = "<group>"; };
+		A3A3592A13352184001AA9F1 /* integrantes@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "integrantes@2x.png"; sourceTree = "<group>"; };
+		A3A3592B13352184001AA9F1 /* naipes.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = naipes.png; sourceTree = "<group>"; };
+		A3A3592C13352184001AA9F1 /* naipes@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "naipes@2x.png"; sourceTree = "<group>"; };
+		A3A35954133525CC001AA9F1 /* default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = default.png; sourceTree = "<group>"; };
+		A3FE71F713352ADF00DEDA62 /* WorshipManagerNew.sqlite */ = {isa = PBXFileReference; lastKnownFileType = file; path = WorshipManagerNew.sqlite; sourceTree = "<group>"; };
+		A3FE722513352D9000DEDA62 /* ViewWithWebViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ViewWithWebViewController.h; sourceTree = "<group>"; };
+		A3FE722613352D9000DEDA62 /* ViewWithWebViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewWithWebViewController.m; sourceTree = "<group>"; };
+		A3FE722713352D9000DEDA62 /* ViewWithWebViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = ViewWithWebViewController.xib; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		1D60588F0D05DD3D006BFB54 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */,
+				1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */,
+				288765FD0DF74451002DB57D /* CoreGraphics.framework in Frameworks */,
+				A34EAAE01329CEB0002816C3 /* libsqlite3.0.dylib in Frameworks */,
+				A350E3DC1350AB36009EB849 /* AddressBook.framework in Frameworks */,
+				A350E3DE1350AB36009EB849 /* AddressBookUI.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		080E96DDFE201D6D7F000001 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				A34EAAEE1329CF96002816C3 /* View */,
+				A34EAAED1329CF8F002816C3 /* Model */,
+				A34EAAEC1329CF74002816C3 /* Db */,
+				1D3623240D0F684500981E51 /* WorshipManagerAppDelegate.h */,
+				1D3623250D0F684500981E51 /* WorshipManagerAppDelegate.m */,
+			);
+			path = Classes;
+			sourceTree = "<group>";
+		};
+		19C28FACFE9D520D11CA2CBB /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				1D6058910D05DD3D006BFB54 /* WorshipManager.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		29B97314FDCFA39411CA2CEA /* CustomTemplate */ = {
+			isa = PBXGroup;
+			children = (
+				080E96DDFE201D6D7F000001 /* Classes */,
+				29B97315FDCFA39411CA2CEA /* Other Sources */,
+				29B97317FDCFA39411CA2CEA /* Resources */,
+				29B97323FDCFA39411CA2CEA /* Frameworks */,
+				19C28FACFE9D520D11CA2CBB /* Products */,
+			);
+			name = CustomTemplate;
+			sourceTree = "<group>";
+		};
+		29B97315FDCFA39411CA2CEA /* Other Sources */ = {
+			isa = PBXGroup;
+			children = (
+				32CA4F630368D1EE00C91783 /* WorshipManager_Prefix.pch */,
+				29B97316FDCFA39411CA2CEA /* main.m */,
+			);
+			name = "Other Sources";
+			sourceTree = "<group>";
+		};
+		29B97317FDCFA39411CA2CEA /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				A3FE71F713352ADF00DEDA62 /* WorshipManagerNew.sqlite */,
+				A3A3593113352188001AA9F1 /* Images */,
+				A34EAC1F1329ED64002816C3 /* IntegrantesTableViewController.xib */,
+				A34EABA71329E108002816C3 /* IntegrantesNaipeTableViewController.xib */,
+				A34EAB4D1329DA47002816C3 /* NaipesViewController.xib */,
+				A34EAB021329D339002816C3 /* NaipesTableViewController.xib */,
+				28AD733E0D9D9553002E5188 /* MainWindow.xib */,
+				8D1107310486CEB800E47090 /* WorshipManager-Info.plist */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		29B97323FDCFA39411CA2CEA /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				1DF5F4DF0D08C38300B7A737 /* UIKit.framework */,
+				1D30AB110D05D00D00671497 /* Foundation.framework */,
+				288765FC0DF74451002DB57D /* CoreGraphics.framework */,
+				A34EAADF1329CEB0002816C3 /* libsqlite3.0.dylib */,
+				A350E3DB1350AB36009EB849 /* AddressBook.framework */,
+				A350E3DD1350AB36009EB849 /* AddressBookUI.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		A34EAAEC1329CF74002816C3 /* Db */ = {
+			isa = PBXGroup;
+			children = (
+				A34EAADC1329CE7F002816C3 /* Conexao.h */,
+				A34EAADD1329CE7F002816C3 /* Conexao.m */,
+			);
+			name = Db;
+			sourceTree = "<group>";
+		};
+		A34EAAED1329CF8F002816C3 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				A34EAAF31329CFCD002816C3 /* Naipes.h */,
+				A34EAAF41329CFCD002816C3 /* Naipes.m */,
+				A34EABB61329E28A002816C3 /* Integrantes.h */,
+				A34EABB71329E28A002816C3 /* Integrantes.m */,
+				A37676E8132AE29100F07675 /* IntegranteNaipe.h */,
+				A37676E9132AE29100F07675 /* IntegranteNaipe.m */,
+			);
+			name = Model;
+			sourceTree = "<group>";
+		};
+		A34EAAEE1329CF96002816C3 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				A34EAB001329D339002816C3 /* NaipesTableViewController.h */,
+				A34EAB011329D339002816C3 /* NaipesTableViewController.m */,
+				A34EABA51329E108002816C3 /* IntegrantesNaipeTableViewController.h */,
+				A34EABA61329E108002816C3 /* IntegrantesNaipeTableViewController.m */,
+				A3FE722613352D9000DEDA62 /* ViewWithWebViewController.m */,
+				A34EAC1D1329ED64002816C3 /* IntegrantesTableViewController.h */,
+				A34EAC1E1329ED64002816C3 /* IntegrantesTableViewController.m */,
+				A3FE722513352D9000DEDA62 /* ViewWithWebViewController.h */,
+				A3FE722713352D9000DEDA62 /* ViewWithWebViewController.xib */,
+			);
+			name = View;
+			sourceTree = "<group>";
+		};
+		A3A3593113352188001AA9F1 /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				A3A35954133525CC001AA9F1 /* default.png */,
+				A3A3592913352184001AA9F1 /* integrantes.png */,
+				A3A3592A13352184001AA9F1 /* integrantes@2x.png */,
+				A3A3592B13352184001AA9F1 /* naipes.png */,
+				A3A3592C13352184001AA9F1 /* naipes@2x.png */,
+				A3A358A113351236001AA9F1 /* person.png */,
+				A3A3587E13350FA9001AA9F1 /* icon.png */,
+				A3A3587F13350FA9001AA9F1 /* icon@2x.png */,
+				A37FBB5E1334DA7800C6FE0A /* Teste.png */,
+			);
+			name = Images;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		1D6058900D05DD3D006BFB54 /* WorshipManager */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "WorshipManager" */;
+			buildPhases = (
+				1D60588D0D05DD3D006BFB54 /* Resources */,
+				1D60588E0D05DD3D006BFB54 /* Sources */,
+				1D60588F0D05DD3D006BFB54 /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = WorshipManager;
+			productName = WorshipManager;
+			productReference = 1D6058910D05DD3D006BFB54 /* WorshipManager.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		29B97313FDCFA39411CA2CEA /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = C01FCF4E08A954540054247B /* Build configuration list for PBXProject "WorshipManager" */;
+			compatibilityVersion = "Xcode 3.1";
+			developmentRegion = English;
+			hasScannedForEncodings = 1;
+			knownRegions = (
+				English,
+				Japanese,
+				French,
+				German,
+			);
+			mainGroup = 29B97314FDCFA39411CA2CEA /* CustomTemplate */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				1D6058900D05DD3D006BFB54 /* WorshipManager */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		1D60588D0D05DD3D006BFB54 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				28AD733F0D9D9553002E5188 /* MainWindow.xib in Resources */,
+				A34EAB041329D339002816C3 /* NaipesTableViewController.xib in Resources */,
+				A34EAB4F1329DA47002816C3 /* NaipesViewController.xib in Resources */,
+				A34EABA91329E108002816C3 /* IntegrantesNaipeTableViewController.xib in Resources */,
+				A34EAC211329ED64002816C3 /* IntegrantesTableViewController.xib in Resources */,
+				A37FBB5F1334DA7800C6FE0A /* Teste.png in Resources */,
+				A3A3588013350FA9001AA9F1 /* icon.png in Resources */,
+				A3A3588113350FA9001AA9F1 /* icon@2x.png in Resources */,
+				A3A358A213351236001AA9F1 /* person.png in Resources */,
+				A3A3592D13352184001AA9F1 /* integrantes.png in Resources */,
+				A3A3592E13352184001AA9F1 /* integrantes@2x.png in Resources */,
+				A3A3592F13352184001AA9F1 /* naipes.png in Resources */,
+				A3A3593013352184001AA9F1 /* naipes@2x.png in Resources */,
+				A3A35955133525CC001AA9F1 /* default.png in Resources */,
+				A3FE71F813352ADF00DEDA62 /* WorshipManagerNew.sqlite in Resources */,
+				A3FE722913352D9000DEDA62 /* ViewWithWebViewController.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		1D60588E0D05DD3D006BFB54 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1D60589B0D05DD56006BFB54 /* main.m in Sources */,
+				1D3623260D0F684500981E51 /* WorshipManagerAppDelegate.m in Sources */,
+				A34EAADE1329CE7F002816C3 /* Conexao.m in Sources */,
+				A34EAAF51329CFCD002816C3 /* Naipes.m in Sources */,
+				A34EAB031329D339002816C3 /* NaipesTableViewController.m in Sources */,
+				A34EABA81329E108002816C3 /* IntegrantesNaipeTableViewController.m in Sources */,
+				A34EABB81329E28A002816C3 /* Integrantes.m in Sources */,
+				A34EAC201329ED64002816C3 /* IntegrantesTableViewController.m in Sources */,
+				A37676EA132AE29100F07675 /* IntegranteNaipe.m in Sources */,
+				A3FE722813352D9000DEDA62 /* ViewWithWebViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		1D6058940D05DD3E006BFB54 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = WorshipManager_Prefix.pch;
+				INFOPLIST_FILE = "WorshipManager-Info.plist";
+				PRODUCT_NAME = WorshipManager;
+			};
+			name = Debug;
+		};
+		1D6058950D05DD3E006BFB54 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = WorshipManager_Prefix.pch;
+				INFOPLIST_FILE = "WorshipManager-Info.plist";
+				PRODUCT_NAME = WorshipManager;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		C01FCF4F08A954540054247B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "Don't Code Sign";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				PREBINDING = NO;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		C01FCF5008A954540054247B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				PREBINDING = NO;
+				SDKROOT = iphoneos;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "WorshipManager" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1D6058940D05DD3E006BFB54 /* Debug */,
+				1D6058950D05DD3E006BFB54 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C01FCF4E08A954540054247B /* Build configuration list for PBXProject "WorshipManager" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C01FCF4F08A954540054247B /* Debug */,
+				C01FCF5008A954540054247B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 29B97313FDCFA39411CA2CEA /* Project object */;
+}
